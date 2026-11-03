@@ -157,7 +157,7 @@ docker run --rm ragagent ask "How many days of paid holiday do employees have?"
 
 ## Author
 
-**Ilaria Buonfrate** · Data & AI Engineer · Madrid
+**Ilaria Buonfrate** · Data & AI Engineer 
 [LinkedIn](https://www.linkedin.com/in/ilaria-buonfrate-3277a9177/) · [GitHub](https://github.com/Ilabuonf)
 
 Licensed under the MIT License.
